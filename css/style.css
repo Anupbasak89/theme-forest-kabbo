@@ -613,13 +613,13 @@ input {
 	padding-left:4%;
 }
 .btngroup {
-	margin: 15px 40%;
-	transform:translate(0%,-35%);
+	margin: 3% 38%;
+	/* transform: translate(0%,0%); */
 }
 .btngroup button{
+	padding: 5px 20px;
 	background-color: #fff;
 	border:0.5px solid #9933ff;
-
 }
 .btngroup button:hover{
 	background-color: #9933ff;
