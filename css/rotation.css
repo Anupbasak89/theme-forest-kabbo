@@ -31,5 +31,5 @@
 	position:absolute;
 	top: -26%;
     left: 26%;
-	z-index: 2;
+	z-index: -2;
 }
