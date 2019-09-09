@@ -6,7 +6,7 @@
 }*/
 
 #loading {
-		-webkit-animation: rotation 10s infinite linear;
+		-webkit-animation: rotation 45s infinite linear;
 		width:500px;
 }
 
