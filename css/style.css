@@ -730,8 +730,8 @@ input {
 }
 .wearefantasy button{
 	margin: 25px auto;
+	transform: translate(-24px, 10px);
 	/* margin-left: -6%; */
-	/* position: absolute; */
 	/* top:45%; */
 	/* left:45%; */
 	/* font-size:1rem; */
@@ -951,14 +951,15 @@ input {
 }
 .ourservice h4{
 	/* margin-right: 17px; */
-	margin: 20px 0px;
+	margin: 0 auto;
 	text-align: center;
 	font-size: 1.5rem;
 	font-weight: 700;
 	text-transform: uppercase;
 }
 .ourservice h2{
-	margin-top:55px;
+	margin-top: 50px;
+	margin: 0 auto;
 	/*font-weight: 700;*/
 	text-align: center;
 	text-transform: uppercase;
@@ -976,7 +977,7 @@ padding-right: 5px;
 }
 .ourservice button{
 	
-margin: 50px 212px;
+margin: 20% 40%;
 	
 /* margin-top: 55px; */
 	
